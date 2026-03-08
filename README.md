@@ -1,15 +1,3 @@
-  About (GitHub short description)
-  A CLI AI coding agent built with
-  Gemini function-calling that can
-  safely list, read, write, and
-  run Python files inside a
-  restricted workspace.
-
-  Suggested Topics
-  ai-agent, gemini, function-
-  calling, python, cli, developer-
-  tools, llm, automation
-
   # AI Agent (Gemini Function
   Calling)
 
